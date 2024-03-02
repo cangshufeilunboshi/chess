@@ -1,0 +1,10 @@
+C:\Users\16359\source\repos\finalwork\finalwork\bin\Debug\finalwork.exe.config
+C:\Users\16359\source\repos\finalwork\finalwork\bin\Debug\finalwork.exe
+C:\Users\16359\source\repos\finalwork\finalwork\bin\Debug\finalwork.pdb
+C:\Users\16359\source\repos\finalwork\finalwork\obj\Debug\finalwork.csproj.AssemblyReference.cache
+C:\Users\16359\source\repos\finalwork\finalwork\obj\Debug\finalwork.Form1.resources
+C:\Users\16359\source\repos\finalwork\finalwork\obj\Debug\finalwork.Properties.Resources.resources
+C:\Users\16359\source\repos\finalwork\finalwork\obj\Debug\finalwork.csproj.GenerateResource.cache
+C:\Users\16359\source\repos\finalwork\finalwork\obj\Debug\finalwork.csproj.CoreCompileInputs.cache
+C:\Users\16359\source\repos\finalwork\finalwork\obj\Debug\finalwork.exe
+C:\Users\16359\source\repos\finalwork\finalwork\obj\Debug\finalwork.pdb
